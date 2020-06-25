@@ -78,7 +78,7 @@ form {
   width: 60%;
   float: right;
   margin-right: 100px;
-  margin-top: 200px;
+  margin-top: 100px;
  padding: 20px 20px 20px 10px;
 }
 input[type=text], select {
@@ -144,7 +144,7 @@ input[type=reset] {
 h2{
    font-family: Arial, Helvetica, sans-serif;
     margin-left: 460px;
-  padding-top: 200px
+ margin-top: 100px;
 }
   h4{
       font-family: Arial, Helvetica, sans-serif;
